@@ -1,4 +1,4 @@
-# python-mundo1-cursoemvideo- Dez/23
+# python-mundo1-cursoemvideo-Dez/23
 Minhas resoluções para os exercícios do Curso Python Mundo 1 - Curso em Video/Gustavo Guanabara
 
 ---
